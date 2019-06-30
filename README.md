@@ -1,2 +1,2 @@
 # breatheGB
-A breathing app for the gameboy
+A homage to mindfulness in the information age
