@@ -1,2 +1,2 @@
 # breatheGB
-A breathing app for gameboy DMG
+A breathing app for the gameboy
