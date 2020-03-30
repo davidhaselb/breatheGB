@@ -1,2 +1,2 @@
 # breatheGB
-A breathing app for the gameboy
+A Mindfulness App for the Gameboy
